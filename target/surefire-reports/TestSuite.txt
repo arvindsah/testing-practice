@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.276 sec <<< FAILURE! - in TestSuite
-checkBookingConfirmationAmountEqualToTotalAmount(com.company.tests.HomePageTest)  Time elapsed: 4.629 sec  <<< FAILURE!
-java.lang.AssertionError: booking amount at confirmation page isn't same expected [914.76] but found [555]
-	at com.company.tests.HomePageTest.checkBookingConfirmationAmountEqualToTotalAmount(HomePageTest.java:78)
-
