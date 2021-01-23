@@ -10,7 +10,7 @@ public class PurchasePageTest {
 	 * on Reserve page
 	 */
 	@Test
-	public void CheckSelectedDetailsMatch() {
+	public void CheckSelectedFlightDetailsMatch() {
 	//TODO write a to check the the flight details on Purchase page
 	}
 			
